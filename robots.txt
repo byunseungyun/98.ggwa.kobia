@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://ggwa.kobia.co.kr/sitemap.xml
+Sitemap:http://ptcg.qustmddus.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
